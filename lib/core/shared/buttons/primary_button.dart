@@ -8,7 +8,7 @@ import '../../themes/color_scheme.dart';
 class AppButton extends StatelessWidget {
   const AppButton({
     super.key,
-    this.color,
+    this.color, 
     required this.text,
     this.isActive = true,
     this.gradient,
